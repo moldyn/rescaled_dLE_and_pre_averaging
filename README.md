@@ -1,6 +1,6 @@
 # Quick Start
 
-It is highly recomended to read the references given below. Besides this, every subfolder contain its own README-file
+It is highly recomended to read the references given below. Besides this, every subfolder contains its own README-file
 explaining how to complile the individual programs.
 
 Every program can be executed with
