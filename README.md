@@ -13,7 +13,7 @@ to get information about the input options and some general aspects of the code.
 
 Besides this, the folder 
 
-examplary_calculations
+**examplary_calculations**
 
 contains everything to do the first dLE calculations. It should be enough to get the logic behind the different
 programs so that their application should not be too hard.
