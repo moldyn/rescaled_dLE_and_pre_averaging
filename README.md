@@ -5,7 +5,7 @@ explaining how to complile the individual programs.
 
 Every program can be executed with
 
-program -h 
+'''program -h 
 
 to get information about the input options and some general aspects of the code.
 
